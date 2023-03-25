@@ -618,6 +618,8 @@ a {
     margin-left: 16px;
     width: 28px;
     height: 28px;
+    background: #f9f9f9;
+    border-radius: 6px;
 }
 
 .footer .social-link:first-child {
